@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.JavaTaskTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-01-22T17:21:17" hostname="DESKTOP-FAVQPCA" time="0.118">
+  <properties/>
+  <testcase name="getCountMapWithStreamApi_givenNumSameNumberFiveTimes_expectedOneSizeMap()" classname="ru.JavaTaskTest" time="0.104"/>
+  <testcase name="getCountMapWithStreamApi_givenTwoNumbers_expectedTwoSizeMap()" classname="ru.JavaTaskTest" time="0.001"/>
+  <testcase name="getCountMapWithStreamApi_givenDifferentRepeatingNumbers_expectedMap()" classname="ru.JavaTaskTest" time="0.001"/>
+  <testcase name="getCountMapWithStreamApi_givenNull_expectedEmpty()" classname="ru.JavaTaskTest" time="0.001"/>
+  <testcase name="getCountMapWithForLoop_givenTwoNumbers_expectedTwoSizeMap()" classname="ru.JavaTaskTest" time="0.001"/>
+  <testcase name="getCountMapWithStreamApi_givenDifferentNumbers_expectedMapValuesEqualOne()" classname="ru.JavaTaskTest" time="0.001"/>
+  <testcase name="getCountMapWithForLoop_givenNumSameNumberFiveTimes_expectedOneSizeMap()" classname="ru.JavaTaskTest" time="0.0"/>
+  <testcase name="getCountMapWithStreamApi_givenOneNumber_expectedOneSizeMap()" classname="ru.JavaTaskTest" time="0.0"/>
+  <testcase name="getCountMapWithForLoop_givenDifferentRepeatingNumbers_expectedMap()" classname="ru.JavaTaskTest" time="0.0"/>
+  <testcase name="getCountMapWithForLoop_givenNull_expectedEmpty()" classname="ru.JavaTaskTest" time="0.0"/>
+  <testcase name="getCountMapWithForLoop_givenDifferentNumbers_expectedMapValuesEqualOne()" classname="ru.JavaTaskTest" time="0.0"/>
+  <testcase name="getCountMapWithForLoop_givenOneNumber_expectedOneSizeMap()" classname="ru.JavaTaskTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
